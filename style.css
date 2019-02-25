@@ -1,0 +1,79 @@
+/* Made with code and care in Paris by Codingk8 - 2019 - Twitter: @codingk8 */
+
+/*
+From Google fonts:
+font-family: 'Laila', serif;
+*/
+
+#container {
+    height: 100vmin;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+    font-family: 'Laila', serif;
+    font-size: 1.5vw;
+    color: white;
+
+    --light: #ebd5d5;
+    --dark: #ceb6b6;
+
+    background-color: var(--light);
+}
+
+h1, h2 {
+    font-size: 1.6em;
+}
+
+#article1 {
+    text-align: center;
+}
+
+#construction {
+    padding: 2% 2% 2% 2%;
+    border: solid 2px;
+    border-radius: 50px;
+}
+
+#meantime {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+}
+
+#find {
+    margin-right: 15px;
+}
+
+.smicon {
+    font-size: 5vw;
+    color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.smicon:hover {
+    opacity: 0.5;
+}
+
+footer {
+    width: 80%;
+    background-color: var(--dark);
+    color: white;
+    border-radius: 50px;
+    text-align: center;
+    padding: 2% 0 1% 0;
+}
+
+footer .link {
+    color: var(--light);
+}
+
+footer .link:hover {
+    opacity: 0.5;
+}
+
+  
