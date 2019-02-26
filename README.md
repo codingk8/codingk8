@@ -28,7 +28,7 @@
 
 ##### Directory structure
 
-<p width="50%" align="left"><img src="assets/readme/20190226_tree_new.png" alt="codingk8 portefolio v1 screenshot"></p>
+<p width="300px" align="left"><img src="assets/readme/20190226_tree_new.png" alt="codingk8 portefolio v1 screenshot"></p>
 
 ## No contribution expected
 
