@@ -2,7 +2,7 @@
 
 ## Project coming for [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" certification
 
-<p align="center"><img src="assets/images/codingk8_portefolio_v1_screenshot.png" alt="codingk8 portefolio v1 screenshot"></p>
+<p align="center"><img src="assets/images/20190226_codingk8_portefolio_v1_screenshot.png" alt="codingk8 portefolio v1 screenshot"></p>
 
 ##### Latest update: 20190226 for draft of "under construction" version
 
