@@ -22,7 +22,7 @@
 * HTML
 * CSS (+ flexbox)
 * JavaScript
-* [jQuery](#)
+* [jQuery](https://jquery.com/)
 * [Google fonts](https://fonts.google.com/) for Laila font
 * [Font Awesome](https://fontawesome.com/) icons
 
@@ -30,7 +30,7 @@
 
 ## No contribution expected
 
-## Author
+## Licence: please get in touch with me if you are interested in re-using part of this code
 
 ## Acknowledgements & Resources
 
