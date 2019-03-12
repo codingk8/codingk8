@@ -31,8 +31,6 @@
 [x] extended accessibility  
 <br>
 
-##### [See it live](https://codingk8.github.io/)
-
 ### How the project works
 
 ##### Built with:
@@ -42,6 +40,9 @@
 * [jQuery](https://jquery.com/)
 * [Google fonts](https://fonts.google.com/) for Laila font
 * [Font Awesome](https://fontawesome.com/) icons
+
+### [Click here to see the project live](https://codingk8.github.io/)
+<br>
 
 ---
 
