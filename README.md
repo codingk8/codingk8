@@ -1,6 +1,6 @@
 <h1 align="center">codingk8 - Portefolio</h1>
 
-<h2 align="center">Project coming for [freeCodeCamp](https://www.freecodecamp.org/) "Responsive Web Design" certification</h2>
+<h2 align="center">Project coming for <a href="https://www.freecodecamp.org/">freeCodeCamp</a><br>"Responsive Web Design" certification</h2>
 
 <p align="center"><img src="assets/readme/20190226_codingk8_portefolio_v1_screenshot.png" alt="codingk8 portefolio v1 screenshot"></p>
 
