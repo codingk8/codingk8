@@ -4,8 +4,6 @@
 
 <p align="center"><img src="assets/readme/20190226_codingk8_portefolio_v1_screenshot.png" alt="codingk8 portefolio v1 screenshot"></p>
 
-##### Latest update: 20190226 for draft of "under construction" version
-
 ## The project
 
 ### What the project does
@@ -71,8 +69,11 @@
 ## Acknowledgements & Resources
 
 To come
+<br>
 
+##### Latest update: 20190226 for draft of "under construction" version
 ##### Latest update: 20190311
+<br>
 
 ---
 
