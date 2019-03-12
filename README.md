@@ -42,6 +42,7 @@
 * [Font Awesome](https://fontawesome.com/) icons
 
 ### [Click here to see the project live](https://codingk8.github.io/)
+<br>
 
 ---
 
