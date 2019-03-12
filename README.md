@@ -77,7 +77,6 @@ To come
 
 ##### Latest update: 20190226 for draft of "under construction" version
 ##### Latest update: 20190311
-<br>
 
 ---
 
