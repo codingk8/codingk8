@@ -2,7 +2,9 @@
 
 <h2 align="center">Project "in building" for <a href="https://www.freecodecamp.org/">freeCodeCamp</a><br>"Responsive Web Design" certification</h2>
 
-<p align="center"><img src="assets/readme/20190226_codingk8_portefolio_v1_screenshot.png" alt="codingk8 portefolio v1 screenshot"></p>
+<p align="center"><img src="assets/readme/20190226_codingk8_portefolio_v1_screenshot.png" alt="codingk8 portefolio v1 screenshot" width="1650px"></p>
+
+---
 
 ## The project
 
@@ -70,6 +72,8 @@
 
 To come
 <br>
+
+---
 
 ##### Latest update: 20190226 for draft of "under construction" version
 ##### Latest update: 20190311
