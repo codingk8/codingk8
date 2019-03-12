@@ -26,7 +26,7 @@
 
 ##### [See project original description here](https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-personal-portfolio-webpage)
 
-##### Additionnal Users stories: 
+#### Additionnal Users stories: 
 [x] full responsive  
 [x] extended accessibility  
 <br>
