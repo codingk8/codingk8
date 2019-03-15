@@ -36,6 +36,7 @@
 ##### Built with:
 * HTML
 * CSS (+ flexbox)
+* [Bootstrap](https://getbootstrap.com/)
 * JavaScript
 * [jQuery](https://jquery.com/)
 * [Google fonts](https://fonts.google.com/) for Laila font
@@ -70,13 +71,13 @@
 
 ## Acknowledgements & Resources
 
-To come
+Background image credit: Photo by [Adrian Pelletier](https://unsplash.com/photos/f7vGvHwxwS8?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyTex)
 <br>
 
 ---
 
 ##### Latest update: 20190226 for draft of "under construction" version
-##### Latest update: 20190311
+##### Latest update: 20190315
 
 ---
 
