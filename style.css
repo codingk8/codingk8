@@ -10,7 +10,9 @@ font-family: 'Laila', serif;
 }
 
 #container {
-    height: 100vmin;
+    height: 100vh;
+
+    padding-bottom: 15%;
 
     display: flex;
     flex-direction: column;
@@ -50,11 +52,12 @@ h1, h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 3rem;
+    flex-wrap: wrap;
 }
 
 #find {
     margin-right: 15px;
+    font-size: 3rem;
 }
 
 .smicon {
@@ -83,7 +86,7 @@ footer {
     bottom: 0;
     left: 0;
     width: 100vw;
-    height: 10%;
+    height: 15%;
 }
 
 footer .link {
@@ -92,7 +95,6 @@ footer .link {
 
 footer .link:hover {
     font-weight: bold;
-    text-decoration: none;
 }
 
   
