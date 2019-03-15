@@ -78,7 +78,8 @@ footer .link {
 }
 
 footer .link:hover {
-    opacity: 0.5;
+    font-weight: bold;
+    text-decoration: none;
 }
 
   
