@@ -2,13 +2,13 @@
 
 <h2 align="center">Project "in building" for <a href="https://www.freecodecamp.org/">freeCodeCamp</a><br>"Responsive Web Design" certification</h2>
 
-<p align="center"><img src="assets/readme/20190226_codingk8_portefolio_v1_screenshot.png" alt="codingk8 portefolio v1 screenshot" width="1650px"></p>
+<p align="center"><img src="assets/readme/20190315_codingk8_portefolio_v2_screenshot.png" alt="codingk8 portefolio v2 screenshot" width="1650px"></p>
 
 ---
 
-## The project
+## The project (in building)
 
-### What the project does
+### What the project will do (when it's finished)
 
 #### Project original users stories:
 
