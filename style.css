@@ -5,6 +5,10 @@ From Google fonts:
 font-family: 'Laila', serif;
 */
 
+:root {
+    font-size: 15px;
+}
+
 #container {
     height: 100vmin;
 
@@ -14,7 +18,7 @@ font-family: 'Laila', serif;
     align-items: center;
 
     font-family: 'Laila', serif;
-    font-size: 1.5vw;
+    font-size: 1.5rem;
     color: white;
 
     --light: #ebd5d5;
@@ -29,7 +33,7 @@ font-family: 'Laila', serif;
 }
 
 h1, h2 {
-    font-size: 1.6em;
+    font-size: 1.6rem;
 }
 
 #article1 {
@@ -46,7 +50,7 @@ h1, h2 {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 2em;
+    font-size: 3rem;
 }
 
 #find {
@@ -54,7 +58,7 @@ h1, h2 {
 }
 
 .smicon {
-    font-size: 5vw;
+    font-size: 5rem;
     color: white;
     margin-right: 10px;
     margin-left: 10px;
