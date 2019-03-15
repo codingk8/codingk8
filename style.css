@@ -20,7 +20,12 @@ font-family: 'Laila', serif;
     --light: #ebd5d5;
     --dark: #ceb6b6;
 
-    background-color: var(--light);
+    /* background-color: var(--light); */
+    background-image: url("assets/images/adrian-pelletier-608345-unsplash.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1, h2 {
