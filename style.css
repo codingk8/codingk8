@@ -69,6 +69,7 @@ h1, h2 {
 
 .smicon:hover {
     opacity: 0.5;
+    transform: translateY(-5px);
 }
 
 footer {
