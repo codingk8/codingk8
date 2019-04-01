@@ -101,10 +101,12 @@ footer p {
 
 footer .link {
     color: var(--light);
+    text-decoration-style: solid;
+    text-decoration: underline;
 }
 
 footer .link:hover {
-    font-weight: bold;
+    color: var(--light);
     text-decoration: none;
 }
 
